@@ -1,4 +1,4 @@
-import Orangtua from "../model/orangtua.js";
+import Orangtua from "../model/Orangtua.js";
 import Santri from "../model/Santri.js";
 
 // =============================
